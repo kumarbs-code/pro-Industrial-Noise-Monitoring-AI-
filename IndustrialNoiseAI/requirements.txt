@@ -1,6 +1,7 @@
-flask
+streamlit
 numpy
-pillow
-scipy
-librosa
 matplotlib
+librosa
+scipy
+scikit-learn
+pillow
